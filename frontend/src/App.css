@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "mainFont";
+  src: url(./fonts/Cafe24Ssurround.ttf);
+}
+@font-face {
+  font-family: "subFont";
+  src: url(./fonts/Cafe24SsurroundAir.ttf);
+}
+
+div {
+  font-family: "subFont";
+}
